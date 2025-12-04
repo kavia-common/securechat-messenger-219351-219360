@@ -1,0 +1,4 @@
+{
+    "command": "dotnet test",
+    "working_directory": "/home/kavia/workspace/code-generation/securechat-messenger-219351-219360/whatsapp_backend"
+}
